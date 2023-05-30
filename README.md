@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1111412824355377263/1113214131248570521/Add_a_heading.gif)](https://shreyanshum.io)
+
 <h1 align="center">Hi 👋, I'm Shreyanshu M</h1>
 <h3 align="center">A passionate software developer from Odisha,India</h3>
 
