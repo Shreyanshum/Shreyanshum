@@ -1,11 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Shreyanshu</h1>
+<h1 align="center">Hey there! This is Shreyanshu</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyanshum&label=Profile%20views&color=0e75b6&style=flat" alt="shreyanshum" /> </p>
 
-- 🌱 I’m currently learning **Python, Java, Javascript and C++(DS Algo)**
-
-- ⚡ Fun fact **I can think of unique ideas really fast :P**
+- 🌱 Currently learning **Python, Java and C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
