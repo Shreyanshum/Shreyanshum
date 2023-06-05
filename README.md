@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there! This is Shreyanshu</h1>
+<h1 align="center">Hey there!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyanshum&label=Profile%20views&color=0e75b6&style=flat" alt="shreyanshum" /> </p>
 
