@@ -12,5 +12,3 @@ I am an Undergrad student learning about software development. I have recently s
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyanshum&show_icons=true&count_private=true)   
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Shreyanshum)  
-
