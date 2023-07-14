@@ -18,5 +18,3 @@ Languages - C++ | Java | Python | SQL | HTML & CSS<br>Learning - DS Algo, Androi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shreyanshum&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyanshum&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Shreyanshum&icon=7&color=6)](https://visitcount.itsvg.in)
