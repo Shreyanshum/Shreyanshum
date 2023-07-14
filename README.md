@@ -2,7 +2,7 @@
 ### Student of Bachelors in Computer Applications
 **`Aspiring Developer`**
 
-I am an Undergrad student learning about software development who is very interested in building projects related to Android. I have built many small projects using Python and Java and am looking forward to some big projects that await.
+I am an Undergrad student learning about software development who is very interested in building projects related to Android and has built many small projects using Python and Java.
 
 ## 👨 About Me:
 Languages - C++ | Java | Python | SQL | HTML & CSS<br>Learning - DS Algo, Android Development
