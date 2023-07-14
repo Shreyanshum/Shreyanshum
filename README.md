@@ -1,15 +1,22 @@
-### Hi there! I am Shrey.
-I am an Undergrad student learning about software development. I have recently started making basic projects in python and learning DS Algo using C++.
+# 🚆Shreyanshu M
+### Student of Bachelors in Computer Applications
+**`Aspiring Developer`**
 
-### Skills
-- 💻 Know C++ | Java | Python | MySQL | HTML & CSS
-- 🌱 Learning Data Structures and Algorithms 
-- 🤔 Looking for help with Android development and UI/UX Design 
+I am an Undergrad student learning about software development who is very interested in building projects related to Android. I have built many small projects using Python and Java and am looking forward to some big projects that await.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shreyanshum)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shreyanshu-mishra-212700224/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shrey_mis/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Shrey77_M)  
+## 👨 About Me:
+Languages - C++ | Java | Python | SQL | HTML & CSS<br>Learning - DS Algo, Android Development
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyanshum)](https://github.com/anuraghazra/github-readme-stats)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shrey_mis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyanshu-mishra-212700224/) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyanshum&show_icons=true&count_private=true)
+## 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shreyanshum&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shreyanshum&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyanshum&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Shreyanshum&icon=7&color=6)](https://visitcount.itsvg.in)
