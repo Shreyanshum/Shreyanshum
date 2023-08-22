@@ -1,4 +1,4 @@
-# 🚴‍♂️Shreyanshu M
+# 🚀Shrey
 ### Student of Bachelors in Computer Applications
 **`Aspiring Developer`**
 
